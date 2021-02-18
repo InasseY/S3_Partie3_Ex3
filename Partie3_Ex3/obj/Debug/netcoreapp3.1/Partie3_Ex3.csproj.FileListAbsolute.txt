@@ -1,0 +1,12 @@
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie3_Ex3/Partie3_Ex3/bin/Debug/netcoreapp3.1/Partie3_Ex3.deps.json
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie3_Ex3/Partie3_Ex3/bin/Debug/netcoreapp3.1/Partie3_Ex3.runtimeconfig.json
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie3_Ex3/Partie3_Ex3/bin/Debug/netcoreapp3.1/Partie3_Ex3.runtimeconfig.dev.json
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie3_Ex3/Partie3_Ex3/bin/Debug/netcoreapp3.1/Partie3_Ex3.dll
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie3_Ex3/Partie3_Ex3/bin/Debug/netcoreapp3.1/Partie3_Ex3.pdb
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie3_Ex3/Partie3_Ex3/obj/Debug/netcoreapp3.1/Partie3_Ex3.csprojAssemblyReference.cache
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie3_Ex3/Partie3_Ex3/obj/Debug/netcoreapp3.1/Partie3_Ex3.AssemblyInfoInputs.cache
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie3_Ex3/Partie3_Ex3/obj/Debug/netcoreapp3.1/Partie3_Ex3.AssemblyInfo.cs
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie3_Ex3/Partie3_Ex3/obj/Debug/netcoreapp3.1/Partie3_Ex3.csproj.CoreCompileInputs.cache
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie3_Ex3/Partie3_Ex3/obj/Debug/netcoreapp3.1/Partie3_Ex3.dll
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie3_Ex3/Partie3_Ex3/obj/Debug/netcoreapp3.1/Partie3_Ex3.pdb
+/Users/inasseyoussouf/LAMANUEXOS/S3_Partie3_Ex3/Partie3_Ex3/obj/Debug/netcoreapp3.1/Partie3_Ex3.genruntimeconfig.cache
