@@ -25,14 +25,14 @@ namespace Partie3_Ex3
             number = Convert.ToInt32(Console.ReadLine());
 
             result = result + number ;
-            Console.WriteLine($"le résultat est de {result}, voulez vous encore ajouter un chiffre oui/non");
+            Console.WriteLine($" voulez vous encore ajouter un chiffre oui/non");
             reponseString = Console.ReadLine();
 
 
         }
                 
                 {
-                    Console.WriteLine("Merci pour votre parcticipation");
+                    Console.WriteLine($"Merci pour votre parcticipation, le résultat est de {result}");
                 }
 
                 
